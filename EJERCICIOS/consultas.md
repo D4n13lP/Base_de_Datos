@@ -5,6 +5,9 @@ En la BD utilizada en clase realiza las siguientes consultas:
 ![image](https://user-images.githubusercontent.com/104279688/172027554-5b7a64ae-88e0-4755-b263-83db47b27419.png)
 
 * Los titulos de las revistas
+
+![image](https://user-images.githubusercontent.com/104279688/172027754-cb793987-f42e-427a-b80d-dad48594e394.png)
+
 * Los nombres, apellidos y especialidad de los periodostas
 * Muestra los empleados que estan en x sucursal
 * Muestra que periodistas colaboraron en x revista y en que sucursal se publico la revista
