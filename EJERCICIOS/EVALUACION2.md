@@ -9,7 +9,7 @@ SELECT, INSERT, UPDATE, DELETE
 
 2. Menciona 3 tipos de datos que existen: (valor .85)
 
-1. Entero (INT), 2. caracter (CHAR), 3. flotante (FLOAT) 
+ Entero (INT),  caracter (CHAR),  flotante (FLOAT) 
 
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
 
