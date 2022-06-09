@@ -14,7 +14,7 @@ Lista el nombre de todos los productos que hay en la tabla producto.
 
 2. Lista todas las columnas de la tabla producto.
 
-![image](https://user-images.githubusercontent.com/104279688/172921671-e6d1b143-a7ae-41e6-8c4c-74b5c6b8d08d.png)
+![image](https://user-images.githubusercontent.com/104279688/172928872-1192c2ef-3a05-4857-8c97-f078cc646c91.png)
 
 3. Devuelve una lista con el nombre del producto, precio y nombre de fabricante de
 todos los productos de la base de datos.
