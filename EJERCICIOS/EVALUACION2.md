@@ -22,6 +22,7 @@ Permite establecer este atributo a los campos que requerimos tengan datos que no
 5. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
 
 VARCHAR utiliza espacios de memoria dinamicamente independientemente de la cantidad que hayamos asignado ahorrando espacio si el dato requiere menos espacio.
+
 CHAR utiliza exactamente el espacio asignado incluso si el dato es de menor tamaño.
 
 6. Defina brevemente el significado de las siglas SQL(valor .85)
