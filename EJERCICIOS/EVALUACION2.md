@@ -74,3 +74,6 @@ https://www.db-fiddle.com/f/716iu2Hxqjrh9VJwyUB6bs/0
 
 
 Base de datos para MySQL
+
+![image](https://user-images.githubusercontent.com/104279688/172915379-ef76d265-2376-4472-8d0c-2f5dac4b6bae.png)
+
