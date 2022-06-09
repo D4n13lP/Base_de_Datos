@@ -30,6 +30,8 @@ en español significa "Lenguaje de Consulta Estructurado"
 
 7. Defina brevemente qué es MySQL WorkBench (valor .85)
 
+Es un Sistema de Gestion de Base de datos multisistema de codihgo abierto para SQL con herramientas visuales.
+
 ## Práctica 5.
 ### Gestores de base de datos
 
