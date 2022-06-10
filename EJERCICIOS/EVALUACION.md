@@ -22,6 +22,20 @@ Mantener la confidencialidad de la informacion y protegerla mediante los program
 
 2. Indíque cinco responsabilidades del sistema gestor de bases de datos (valor 1.5)
 
+Contribuyen a la creación de bases de datos más eficaces y consistentes.
+
+Determinan las estructuras de almacenamiento del sistema.
+
+Facilitan las búsquedas de datos de cualquier tipo y procedencia a los usuarios de negocio.
+
+Ayudan a mantener la integridad de los activos informacionales de la empresa.
+
+Introducen cambios en la información, si es requerido.
+
+Simplifican los procesos de consulta.
+
+Controlan los movimientos que se observan en la base de datos.
+
 3. En una BD al usuario del sistema se le brindarán recursos para realizar diversas
 operaciones sobre estos archivos, tales como: (valor 1.5)
 
