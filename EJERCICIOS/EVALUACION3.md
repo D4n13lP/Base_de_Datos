@@ -41,6 +41,8 @@ mostrará dos columnas, una con el nombre del fabricante y otra con el número d
 productos que tiene. Ordene el resultado descendentemente por el número de
 productos. (valor 4.5)
 
+![image](https://user-images.githubusercontent.com/104279688/173157020-5a344f9b-e6a5-4ada-97cb-7ad2f83c7d75.png)
+
 3. Muestra el precio máximo, precio mínimo y precio medio de los productos de cada
 uno de los fabricantes. El resultado mostrará el nombre del fabricante junto con los
 datos que se solicitan. (valor 4.5)
