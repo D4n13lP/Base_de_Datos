@@ -10,31 +10,29 @@ Preguntas:
 1. ¿Cuáles son las cinco funciones principales del administrador de bases de datos?
 (valor 1.5)
 
-Mantener y operar los sistemas de informacion de las organizaciones
+    1. Mantener y operar los sistemas de informacion de las organizaciones
 
-Crear bases de datos normalizadas utilizando una nomenclatura de diseño estandarizada
+    2. Crear bases de datos normalizadas utilizando una nomenclatura de diseño estandarizada
 
-Diseñar repositorios mas eficientes para el analisis de la informacion
+    3.Diseñar repositorios mas eficientes para el analisis de la informacion
 
-Transformar los requerimientos del cliente en reglas de negocio y realizar con ellas un modelo 
+    4.Transformar los requerimientos del cliente en reglas de negocio y realizar con ellas un modelo 
 
-Mantener la confidencialidad de la informacion y protegerla mediante los programas con que se manipula.
+    5.Mantener la confidencialidad de la informacion y protegerla mediante los programas con que se manipula.
 
 2. Indíque cinco responsabilidades del sistema gestor de bases de datos (valor 1.5)
 
-Contribuyen a la creación de bases de datos más eficaces y consistentes.
+       1. Determinan las estructuras de almacenamiento del sistema.
+ 
+       2. Facilitan las búsquedas de datos de cualquier tipo y procedencia a los usuarios de negocio.
 
-Determinan las estructuras de almacenamiento del sistema.
+       3. Ayudan a mantener la integridad de los activos informacionales de la empresa.
 
-Facilitan las búsquedas de datos de cualquier tipo y procedencia a los usuarios de negocio.
+       4. Introducen cambios en la información, si es requerido.
 
-Ayudan a mantener la integridad de los activos informacionales de la empresa.
+       5. Simplifican los procesos de consulta.
 
-Introducen cambios en la información, si es requerido.
-
-Simplifican los procesos de consulta.
-
-Controlan los movimientos que se observan en la base de datos.
+       6. Controlan los movimientos que se observan en la base de datos.
 
 3. En una BD al usuario del sistema se le brindarán recursos para realizar diversas
 operaciones sobre estos archivos, tales como: (valor 1.5)
