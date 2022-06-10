@@ -41,7 +41,8 @@ operaciones sobre estos archivos, tales como: (valor 1.5)
 
 4. ¿Qué es un Sistema de Información? (valor 1.5)
 
-       Un Sistema de Información (SI) es un conjunto de componentes interrelacionados que trabajan juntos para recopilar, procesar, almacenar y difundir información          para apoyar la toma de decisiones. Además apoyan la coordinación, control, análisis y visualización de una organización.
+       Un Sistema de Información (SI) es un conjunto de componentes interrelacionados que trabajan juntos para recopilar, procesar, almacenar y difundir información          
+       para apoyar la toma de decisiones. Además apoyan la coordinación, control, análisis y visualización de una organización.
 
 ## Práctica 2.
 
