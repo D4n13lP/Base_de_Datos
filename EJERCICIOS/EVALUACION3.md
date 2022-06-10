@@ -16,6 +16,9 @@ Ejercicio:
 
 2. Realiza un diseño del modelo en estrella (valor 2)
 
+     ![image](https://user-images.githubusercontent.com/104279688/173006237-16ec5772-8e3b-41a9-8548-9b70c430bae6.png)
+
+
 3. Realiza un diseño del modelo copo de nieve (valor 2)
 
 
