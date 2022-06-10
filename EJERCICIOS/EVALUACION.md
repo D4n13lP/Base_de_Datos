@@ -37,7 +37,7 @@ Preguntas:
 3. En una BD al usuario del sistema se le brindarán recursos para realizar diversas
 operaciones sobre estos archivos, tales como: (valor 1.5)
 
-       Lectura y registro de nuevos datos.
+       Los usuarios pueden crear, leer, actualizar y eliminar datos de una BD.
 
 4. ¿Qué es un Sistema de Información? (valor 1.5)
 
