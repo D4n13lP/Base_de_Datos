@@ -3,10 +3,12 @@
 
 ● Diseña el modelo entidad-relación del siguiente problema.
 
-![image](https://user-images.githubusercontent.com/104279688/173163456-5fcd3d1d-f33a-4c59-a6e7-7a4c7f604d02.png)
+![image](https://user-images.githubusercontent.com/104279688/173171382-7dd3ddc2-51c5-4db4-a9b7-f245bd49e817.png)
 
 ● Crea el script para la base de datos.
 Proveedores
+
+https://www.db-fiddle.com/f/rU15PEkHnyqcPRZHGiBVN/0
 
 Tenemos que diseñar una base de datos sobre proveedores y disponemos de
 la siguiente información:
