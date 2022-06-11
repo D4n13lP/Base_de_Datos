@@ -72,6 +72,9 @@ Modelo entidad/relación
 
 ![image](https://user-images.githubusercontent.com/104279688/172915379-ef76d265-2376-4472-8d0c-2f5dac4b6bae.png)
 
+![image](https://user-images.githubusercontent.com/104279688/173206802-0b6b33e7-ebd0-4b6a-a314-f75b1c3236cb.png)
+
+
 
 Base de datos para MySQL
 
