@@ -13,6 +13,7 @@ Creación de la base de datos : 9 puntos.
 Creación de los Disparadores(Triggers): 9 puntos.
 
 https://www.db-fiddle.com/f/ce4QZCqo4W3BXfrUzX3a54/0
+https://www.db-fiddle.com/f/ce4QZCqo4W3BXfrUzX3a54/1
 
 Tabla alumnos:
 
